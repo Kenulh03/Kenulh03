@@ -1,4 +1,4 @@
-# Hi, I'm Kenul 👋
+# Hi, I'm Kenul ツ
 
 **Data Analytics • Business Analysis • Artificial Intelligence • Software Development**
 
