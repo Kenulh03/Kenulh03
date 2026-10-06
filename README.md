@@ -53,8 +53,8 @@ Turning data into insights, ideas into systems, and bugs into unexpected learnin
 ## 📈 GitHub Analytics
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kenulh03&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenulh03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kenulh03&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
