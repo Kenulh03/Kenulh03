@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="YOUR-BANNER-IMAGE-URL" />
-</p>
-
 ### Hi, I’m Kenul 👋
 
 I work with **data, code, and the occasional error message that somehow becomes part of the solution.**
