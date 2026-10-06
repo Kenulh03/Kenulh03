@@ -25,10 +25,10 @@ Turning data into insights, ideas into systems, and bugs into unexpected learnin
 ## 👨‍💻 About Me
 
 - 📊 Focused on **Data Analytics, Business Analysis, Artificial Intelligence, and Software Development**
-- 🎓 Building analytical and technical solutions using real-world data
+- 🎓 **BSc (Hons) Information Technology – First Class Honours, University of West London,UK**
+- 🏅 **MBCS — Member of the British Computer Society**
 - 💡 Interested in transforming complex datasets into meaningful business insights
 - 🚀 Continuously improving my skills in **Data Science, Analytics, and Full-Stack Development**
-
 ---
 
 ## 🛠️ Languages & Tools
