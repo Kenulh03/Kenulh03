@@ -4,8 +4,11 @@ I work with **data, code, and the occasional error message that somehow becomes 
 
 📊 My main interests are **Data Analytics, Business Analysis, Artificial Intelligence, and Software Development**.
 
-💻 **Tech Stack:**  
-R • Python • SQL • JavaScript • Java • Spring Boot • MERN • MySQL • Power BI • Tableau • Git
+<h2>🛠️ Languages and Tools</h2>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,express,figma,firebase,git,html,java,javascript,laravel,mongodb,mysql,nodejs,php,postman,python,react,sass,spring,tailwind,typescript" />
+</p>
 
 🚀 **Current mindset:**  
 `Code → Analyze → Build → Learn → Improve → Repeat`
