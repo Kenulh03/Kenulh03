@@ -73,4 +73,4 @@ Turning data into insights, ideas into systems, and bugs into unexpected learnin
 
 ---
 
-*Data tells a story. I like figuring out what it's trying to say.*
+*Part developer. Part analyst. Full-time “why is this not working?”*
