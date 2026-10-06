@@ -1,4 +1,4 @@
-### Hi, I’m Kenul 👋
+### Hi, I’m Kenul 
 
 I work with **data, code, and the occasional error message that somehow becomes part of the solution.**
 
