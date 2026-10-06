@@ -9,12 +9,20 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kenulfernando/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kenul%20Fernando-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kenulfernando/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         height="40"
+         width="40" />
   </a>
 
-  <a href="https://www.instagram.com/_.kenuu._/">
-    <img src="https://img.shields.io/badge/Instagram-@_.kenuu._-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/_.kenuu._/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         alt="Instagram"
+         height="40"
+         width="40" />
   </a>
 </p>
 
@@ -58,8 +66,11 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kenulh03&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenulh03&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=Kenulh03&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenulh03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -81,18 +92,6 @@
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kenulfernando/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://www.instagram.com/_.kenuu._/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <i>Data tells a story. I like figuring out what it's trying to say.</i>
