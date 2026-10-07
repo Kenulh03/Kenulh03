@@ -34,7 +34,7 @@ Turning data into insights, ideas into systems, and bugs into unexpected learnin
 ## 🛠️ Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,express,figma,firebase,git,html,java,javascript,laravel,mongodb,mysql,nodejs,php,postman,python,react,sass,spring,tailwind,typescript&perline=12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,css,express,figma,firebase,git,html,java,javascript,laravel,mongodb,mysql,nodejs,php,postman,python,react,sass,spring,tailwind,typescript&perline=12" />
 </p>
 
 ---
